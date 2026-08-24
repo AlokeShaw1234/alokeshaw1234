@@ -10,7 +10,7 @@ I'm a B.Tech Information Technology student passionate about building scalable w
 - 💻 Interested in Software Development, Backend & Full-Stack Engineering
 - 🚀 Always learning and building new projects
 
-  ---
+---
 
 🛠️ Tech Stack
 
@@ -42,6 +42,7 @@ I'm a B.Tech Information Technology student passionate about building scalable w
 "VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 "Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 🚀 Featured Projects
 
