@@ -10,6 +10,8 @@ I'm a B.Tech Information Technology student passionate about building scalable w
 - 💻 Interested in Software Development, Backend & Full-Stack Engineering
 - 🚀 Always learning and building new projects
 
+  ---
+
 🛠️ Tech Stack
 
 👨‍💻 Languages
