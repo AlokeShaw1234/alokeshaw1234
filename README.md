@@ -115,7 +115,7 @@ Topics
 - Graphs
 - Dynamic Programming
 
-Problems Solved: 260+ on Take U Forward  & 110+ on LeetCode
+Problems Solved: 290+ on Take U Forward  & 165+ on LeetCode
 
 ---
 
